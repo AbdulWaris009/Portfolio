@@ -7,7 +7,7 @@ const Footer = () => {
         <Logo invert />
         <div>
           <p className='font-display font-semibold text-white'>@2024 Personal</p>
-          <p className='font-display font-semibold text-white'>Made by Rajat Talesra</p>
+          <p className='font-display font-semibold text-white'>Made by ABD WARIS</p>
         </div>
       </div>
     </div>

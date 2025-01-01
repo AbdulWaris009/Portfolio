@@ -3,21 +3,26 @@ import VariableWeightText from "../components/VariableWeightText";
 
 import GitLogo from '../assets/git.svg'
 import JSLogo from '../assets/js.svg'
-import SassLogo from '../assets/sass.svg'
-import StorybookLogo from '../assets/storybook.svg'
-import NestLogo from '../assets/nest.svg'
+import HtmlLogo from '../assets/Html.svg'
+import CssLogo from '../assets/Css.svg'
+import ReactLogo from '../assets/React.svg'
+import NodeLogo from '../assets/Node js.svg'
+import MongoDBLogo from '../assets/mongodb.svg'
+import BootsstrapLogo from '../assets/bootstrap.svg'
+import TailwindLogo from '../assets/tailwind-css.svg'
+import ExpressjsLogo from '../assets/express-js.svg'
 
 const skillsData = [
-  { logo: GitLogo, name: 'Git', },
+  {logo:HtmlLogo,name:'Html',},
+  {logo:CssLogo,name:'Css',},
   { logo: JSLogo, name: 'JavaScript', },
-  { logo: SassLogo, name: 'Sass/Scss', },
-  { logo: NestLogo, name: 'Nest.Js', },
-  { logo: StorybookLogo, name: 'Storybook', },
-  { logo: NestLogo, name: 'Nest.Js', },
+  {logo:ReactLogo,name:'React',},
+  {logo:BootsstrapLogo,name:'Bootstrap'},
+  {logo:TailwindLogo,name:'Tailwind'},
+  {logo:NodeLogo,name:'Nodejs',},
+  {logo:ExpressjsLogo,name:'Express js',},
+  {logo:MongoDBLogo,name:'MongoDB',},
   { logo: GitLogo, name: 'Git', },
-  { logo: StorybookLogo, name: 'Storybook', },
-  { logo: JSLogo, name: 'JavaScript', },
-  { logo: SassLogo, name: 'Sass/Scss', },
 ]
 
 const Skills = () => {

@@ -9,23 +9,23 @@ import Project3 from '../assets/project-3.png'
 const projectsData = [
   {
     id: "01",
-    title: "Crypto Screener Application",
-    description: "I'm Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to specimen book.",
-    link: "https://github.com",
-    image: Project1,  
+    title: "Job Finder Application",
+    description: "Discover your dream job effortlessly with our powerful Job Finder application. Designed for efficiency, it connects job seekers with opportunities through an intuitive interface . Whether you're starting your career or looking for a change, find the perfect match with ease!",
+    link: "https://github.com/AbdulWaris009",
+    image: "https://media.istockphoto.com/id/1279104620/photo/top-view-of-a-white-desktop-concept-job-search.jpg?s=612x612&w=0&k=20&c=Ow_kvA2wQ4rLlqX_oFHgpjLb1JMKyPQKLOPzbu6w6qw=",  
   },
   {
     id: "02",
-    title: "Euphoria - Ecommerce (Apparels) Website Template",
-    description: "I'm Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to specimen book. When an unknown printer took a galley of type and scrambled it to specimen book.",
-    link: "https://github.com",
+    title: "News React App",
+    description: "Stay informed with our feature-rich News App. Get the latest updates from around the world, tailored to your interests, all in a clean and user-friendly interface. News that matters, just a tap away!",
+    link: "https://github.com/AbdulWaris009",
     image: Project2,
   },
   {
     id: "03",
-    title: "Blog Website Template",
-    description: "I'm Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to specimen book.",
-    link: "https://github.com",
+    title: "JS SMALL PROJECT",
+    description: " Beginner friendly Project using Html,css javascript ",
+    link: "https://github.com/AbdulWaris009",
     image: Project3,
   }
 ]
