@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a481046d.css",
+    "main.js": "./static/js/main.6b840d62.js",
+    "static/media/project-2.png": "./static/media/project-2.1ead328df6f84655b5b7.png",
+    "static/media/project-3.png": "./static/media/project-3.c4b7cab8333ee2aa1f61.png",
+    "static/media/resume.pdf": "./static/media/resume.0d6e5a3fcd189bbceec9.pdf",
+    "static/media/about_me.svg": "./static/media/about_me.e489db659e018304e8c30368869f7540.svg",
+    "static/media/mongodb.svg": "./static/media/mongodb.9fa546c6a6dfddc0b151942d6f27c028.svg",
+    "static/media/boy.svg": "./static/media/boy.8483f5075988e8b102fd8547b11436ab.svg",
+    "static/media/Css.svg": "./static/media/Css.7a07b9e22b526ff7885a388bc10d5af9.svg",
+    "static/media/React.svg": "./static/media/React.eceb029dbc928d8145da936f98f5b450.svg",
+    "static/media/bootstrap.svg": "./static/media/bootstrap.7282ff4a3cfcf95d7935fd6636bb17f7.svg",
+    "static/media/Html.svg": "./static/media/Html.e833a009c548c5782e94a2fd2a477926.svg",
+    "static/media/js.svg": "./static/media/js.6a7a7b01caf343d85e9db053e655c2cd.svg",
+    "static/media/Node js.svg": "./static/media/Node js.070a1c1c9441eb14f03262e92d454003.svg",
+    "static/media/git.svg": "./static/media/git.a3899cbccf22413fc4b4e9ffda55f3d7.svg",
+    "static/media/tailwind-css.svg": "./static/media/tailwind-css.20281fe8d51ab928492d88eac29ccd65.svg",
+    "static/media/Instagram.svg": "./static/media/Instagram.e2919f57328d2495b1fc84f45454964c.svg",
+    "static/media/logo.svg": "./static/media/logo.acf59fd5f564bd6790c2db309fcad954.svg",
+    "static/media/express-js.svg": "./static/media/express-js.13e4b3884f318c648bfe0207aa64c8dc.svg",
+    "static/media/export.svg": "./static/media/export.fde289c329dbf33e1e495ebb920bc799.svg",
+    "index.html": "./index.html",
+    "main.a481046d.css.map": "./static/css/main.a481046d.css.map",
+    "main.6b840d62.js.map": "./static/js/main.6b840d62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a481046d.css",
+    "static/js/main.6b840d62.js"
+  ]
+}
